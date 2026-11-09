@@ -1,4 +1,4 @@
-# AkiraArtuhaxis
+![AkiraArtuhaxis](./header.png)
 
 **AkiraArtuhaxis** is the joint account managed by [Akira896](https://github.com/Akira8966) and [Artuhaxis](https://github.com/feliarroyo) for managing the [Jackbox en español project](https://traducciones.jackbox.lol/) and other Jackbox-related repositories.
 
